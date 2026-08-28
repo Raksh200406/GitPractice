@@ -1,0 +1,2 @@
+.container { display:flex; gap:20px; justify-content:center; }
+.container div { padding:30px; border:1px solid #333; }
